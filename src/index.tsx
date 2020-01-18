@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import ReactDOM from 'react-dom'
-import { animated, useSpring, config } from 'react-spring'
+import { animated, useSpring } from 'react-spring'
 import styled from 'styled-components'
 
 document.addEventListener('DOMContentLoaded', () => {
